@@ -2,7 +2,7 @@
   "name": "ccc-es6",
   "version": "1.0.0",
   "description": "",
-  "main": "Employee.js",
+  "main": "tests.js",
   "dependencies": {},
   "devDependencies": {
     "babel": "^6.5.2",
@@ -16,6 +16,6 @@
   "scripts": {
     "test": "mocha tests.js --compilers js:babel-register"
   },
-  "author": "",
+  "author": "AJ Srivastava",
   "license": "ISC"
 }
